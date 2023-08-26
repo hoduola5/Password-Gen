@@ -4,7 +4,7 @@ This is a simple web-based random password generator that allows you to generate
 
 ## Usage
 
-- Copy this link to your web browser.
+- Copy this link (https://hoduola5.github.io/Password-Gen/) to your web browser.
 - Click the "Generate Password" button to start the password generation process.
 - You will be prompted to enter the desired length of the password. Make sure the length is between 10 and 64 characters.
 - Next, you will be asked to select the character types you want to include in the password:
@@ -13,6 +13,8 @@ This is a simple web-based random password generator that allows you to generate
 - Lowercase letters
 - Uppercase letters
 - After making your selections, a randomly generated password will appear in the designated password field.
+
+![alt text](images/password-generator-img.png)
 
 ## How to contribute
 
